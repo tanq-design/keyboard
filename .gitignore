@@ -1,2 +1,5 @@
-Yamata37/fp-info-cache
-Yamata37/yamata37-backups
+*/*-backups
+*/fp-info-cache
+*/*/*-backups
+*/*/fp-info-cache
+
